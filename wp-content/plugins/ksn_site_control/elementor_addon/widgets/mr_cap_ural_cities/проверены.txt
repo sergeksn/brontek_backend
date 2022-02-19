@@ -1,0 +1,13 @@
+parent_uslugi_yellow_ssilki
+parent_uslugi_icon
+unifi_blok_1
+glavnaya_gorod_text
+randomayzer
+instagram_galery
+animate_img_text
+animate_diskont_img_text
+contact_map_img
+razvorot_block
+footer
+
+все их классы проверены в файле critikal.css, min-w-1800.css и вынесенны ниже с комментариями к какому блоку они относятся

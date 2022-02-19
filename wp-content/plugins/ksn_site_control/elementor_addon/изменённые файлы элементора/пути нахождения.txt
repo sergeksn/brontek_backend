@@ -1,0 +1,7 @@
+поменял файлы 
++ \wp-content\plugins\elementor\includes\base/widget-base.php
++ \wp-content\plugins\elementor\includes\base/element-base.php
++ \wp-content\plugins\elementor\core\base/document.php
++ \wp-content\plugins\elementor-pro\modules\theme-builder\documents/theme-document.php
+- не нужен в новой версии \wp-content\plugins\elementor\includes\elements/section.php
+- не нужен в новой версии \wp-content\plugins\elementor\includes\elements/column.php

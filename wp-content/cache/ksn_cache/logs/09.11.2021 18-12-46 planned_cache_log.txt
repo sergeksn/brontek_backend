@@ -1,0 +1,7 @@
+[URL] http://shop.loc/ => Файл успешно кеширован в папку D:/OpenServer/domains/shop.loc/wp-content/cache/ksn_cache/shop.loc 
+[URL] http://shop.loc/vybrat-komplekt/ => Файл успешно кеширован в папку D:/OpenServer/domains/shop.loc/wp-content/cache/ksn_cache/shop.loc/vybrat-komplekt 
+[URL] http://shop.loc/instrukczii/ => Файл успешно кеширован в папку D:/OpenServer/domains/shop.loc/wp-content/cache/ksn_cache/shop.loc/instrukczii 
+[URL] http://shop.loc/dostavka-i-oplata/ => Файл успешно кеширован в папку D:/OpenServer/domains/shop.loc/wp-content/cache/ksn_cache/shop.loc/dostavka-i-oplata 
+[URL] http://shop.loc/o-nas/ => Файл успешно кеширован в папку D:/OpenServer/domains/shop.loc/wp-content/cache/ksn_cache/shop.loc/o-nas 
+[URL] http://shop.loc/korzina/ => Файл успешно кеширован в папку D:/OpenServer/domains/shop.loc/wp-content/cache/ksn_cache/shop.loc/korzina 
+[URL] http://shop.loc/2021/11/09/plyonka/ => Файл успешно кеширован в папку D:/OpenServer/domains/shop.loc/wp-content/cache/ksn_cache/shop.loc/2021/11/09/plyonka 

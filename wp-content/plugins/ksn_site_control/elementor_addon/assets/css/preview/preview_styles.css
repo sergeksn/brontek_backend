@@ -1,0 +1,123 @@
+@-webkit-keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(255, 255, 255, .4), 0 0 0 0 rgba(255, 255, 255, .4)
+    }
+
+    70% {
+        box-shadow: 0 0 0 24px rgba(255, 255, 255, 0), 0 0 0 56px rgba(255, 255, 255, 0)
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 rgba(255, 255, 255, 0), 0 0 0 0 rgba(255, 255, 255, 0)
+    }
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(255, 255, 255, .4), 0 0 0 0 rgba(255, 255, 255, .4)
+    }
+
+    70% {
+        box-shadow: 0 0 0 24px rgba(255, 255, 255, 0), 0 0 0 56px rgba(255, 255, 255, 0)
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 rgba(255, 255, 255, 0), 0 0 0 0 rgba(255, 255, 255, 0)
+    }
+}
+
+.scrollup img {
+    border-radius: 50%;
+}
+
+
+.modal_form {
+    z-index: 9999;
+}
+
+div[data-elementor-type="header"] {
+    z-index: 2;
+}
+
+div[data-elementor-type="header"]:hover {
+    z-index: 3;
+}
+
+main#content {
+    z-index: 1;
+}
+
+main#content:hover {
+    z-index: 2;
+}
+
+div[data-elementor-type="footer"] {
+    z-index: 2;
+}
+
+img.random_img_item.vidna {
+    height: 100%;
+}
+
+.elementor-column-gap-default>.elementor-column>.elementor-element-populated {
+    padding: 0;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: none;
+}
+
+.elementor img {
+    max-width: none;
+}
+
+.elementor img[data-type="img_maket"] {
+    height: 100%;
+}
+
+
+.elementor-edit-area-active .elementor-widget.elementor-element-edit-mode:hover,
+.elementor-edit-area-active .elementor-widget.elementor-element-edit-mode:active,
+.elementor-edit-area-active .elementor-widget.elementor-element-edit-mode:focus {
+    z-index: 1;
+}
+
+.elementor-edit-area-active .elementor-widget.elementor-element-edit-mode:hover,
+.elementor-edit-area-active .elementor-widget.elementor-element-edit-mode:active,
+.elementor-edit-area-active .elementor-widget.elementor-element-edit-mode:focus {
+    z-index: auto;
+}
+
+.elementor-widget-glavnaya_gorod_text .elementor-widget-container {
+    min-height: 1px;
+}
+
+@media (min-width: 993px){
+    .hide_desktop{
+        height: 1px!important;
+        padding: 0px!important;
+    }
+    .hide_desktop * {
+        display: none!important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .hide_tablet{
+        height: 1px!important;
+        padding: 0px!important;
+    }
+    .hide_tablet * {
+        display: none!important;
+    }
+}
+
+@media (max-width: 767px){
+    .hide_mobile{
+        height: 1px!important;
+        padding: 0px!important;
+    }
+    .hide_mobile * {
+        display: none!important;
+    }
+}

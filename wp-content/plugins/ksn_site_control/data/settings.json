@@ -1,0 +1,106 @@
+{
+    "site_settings":
+    {   
+        "site_mobile_version": "yes",
+        "site_tablet_version": "yes",
+        "retina_active": "yes",
+        "bg_color": "#06131c",
+        "text_color": "#ffffff"
+    },
+    "seo":
+    {
+        "site_seo_active": "no",
+        "analitics":
+        {
+            "google":
+            {
+                "google_analitica_active": "no",
+                "google_analitica_id": "",
+                "google_lazy_load": "no",
+                "google_verefi_string": ""
+            },
+            "yandex":
+            {
+                "yandex_metrika_active": "no",
+                "yandex_metrika_id": "",
+                "yandex_metrika_webvisor": "yes",
+                "yandex_lazy_load": "no",
+                "yandex_verefi_string": ""
+            },
+            "facebook":
+            {
+                "facebook_pixel_active": "no",
+                "facebook_pixel_id": "",
+                "facebook_lazy_load": "no"
+            },
+            "vk":
+            {
+                "vk_pixel_active": "no",
+                "vk_pixel_id": "",
+                "vk_lazy_load": "no"
+            }
+        },
+        "geo_meta_data": ""
+    },
+    "security":
+    {
+        "antibot":
+        {
+            "antibot_active": "no"
+        },
+        "recapcha":
+        {
+
+        }
+    },
+    "cache":
+    {
+        "cache_active": "no",
+        "cache_last_update_time": "",
+        "cache_planed_update": "yes",
+        "cache_reload_iterval_days": "1",
+        "cache_need_to_update":
+        {
+            "settings_update": "no"
+        },
+        "caching_settings_velues":
+        {   
+            "site_mobile_version": "yes",
+            "site_tablet_version": "yes",
+            "retina_active": "yes",
+            "bg_color": "#06131c",
+            "text_color": "#ffffff",
+            "google_analitica_active": "no",
+            "google_analitica_id": "",
+            "google_lazy_load": "no",
+            "google_verefi_string": "",
+            "yandex_metrika_active": "no",
+            "yandex_metrika_id": "",
+            "yandex_metrika_webvisor": "yes",
+            "yandex_lazy_load": "no",
+            "yandex_verefi_string": "",
+            "facebook_pixel_active": "no",
+            "facebook_pixel_id": "",
+            "facebook_lazy_load": "no",
+            "vk_pixel_active": "no",
+            "vk_pixel_id": "",
+            "vk_lazy_load": "no",
+            "geo_meta_data": "",
+            "online_chat_active": "no",
+            "online_chat_id": "",
+            "update_css_js": "100"
+        }
+    },
+    "integrations":
+    {
+        "online_chat_jivosite":
+        {
+            "online_chat_active": "no",
+            "online_chat_id": ""
+        }
+    },
+    "dop_options":
+    {
+        "update_css_js": "100"
+    }
+}

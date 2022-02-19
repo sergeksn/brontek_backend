@@ -1,0 +1,127 @@
+@font-face {
+    font-family: UltraLightItalic; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-UltraLightItalic.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-UltraLightItalic.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-UltraLightItalic.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-UltraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: UltraLight; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-UltraLight.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-UltraLight.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-UltraLight.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-UltraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: ThinItalic; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-ThinItalic.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-ThinItalic.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-ThinItalic.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Thin; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Thin.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Thin.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Thin.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Roman; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Roman.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Roman.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Roman.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Roman.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: MediumItalic; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-MediumItalic.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-MediumItalic.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-MediumItalic.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Medium; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Medium.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Medium.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Medium.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: LightItalic; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-LightItalic.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-LightItalic.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-LightItalic.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Light; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Light.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Light.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Light.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Italic; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Italic.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Italic.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Italic.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: HeavyItalic; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-HeavyItalic.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-HeavyItalic.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-HeavyItalic.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-HeavyItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Heavy; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Heavy.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Heavy.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Heavy.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: BoldItalic; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-BoldItalic.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-BoldItalic.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-BoldItalic.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Bold; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Bold.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Bold.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Bold.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: BlackItalic; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-BlackItalic.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-BlackItalic.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-BlackItalic.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-BlackItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Black; 
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Black.eot');
+    src: url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Black.eot?iefix') format('eot'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Black.woff') format('woff'),
+    url('/wp-content/themes/serge_produkt/fonts/HelveticaNeueCyr-Black.ttf') format('truetype');
+}

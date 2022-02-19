@@ -1,0 +1,202 @@
+@media(min-width:1800px) {
+
+    /*настройки шаблона сайта*/
+    h1 {
+        font-size: 2vw !important
+    }
+
+    h2 {
+        font-size: 1.8vw !important
+    }
+
+    .warning_messege {
+        font-size: 1.1vw !important
+    }
+
+    .warning {
+        font-size: 1.4vw !important
+    }
+
+    /*настройки шаблона сайта*/
+
+    /*разворачивающийся блок с текстом*/
+    .viseble_text *:not(h2) {
+        font-size: 1.2vw !important
+    }
+
+    .open_close * {
+        font-size: 1.2vw !important
+    }
+
+    .skritiy_text *:not(h2) {
+        font-size: 1.2vw !important
+    }
+
+    /*разворачивающийся блок с текстом*/
+
+    /*Анимированный блок дисконт картинка*/
+    .text_block_discont .text_diskont *:not(h2) {
+        font-size: 1.3vw !important
+    }
+
+    .text_block_discont .text_diskont p:first-child {
+        font-size: 2vw !important
+    }
+
+    .text_block_discont .diskont_persent .pesent_1 {
+        font-size: 3vw !important
+    }
+
+    .text_block_discont .diskont_persent .pesent_2 {
+        font-size: 5vw !important
+    }
+
+    .text_block_discont .diskont_persent .pesent_3 {
+        font-size: 8vw !important
+    }
+
+    /*Анимированный блок дисконт картинка*/
+
+    /*Анимированный блок картинка-текст*/
+    .vsplivaushiy_text *:not(h2) {
+        font-size: 1.2vw !important
+    }
+
+    .text_block p:first-child {
+        font-size: 1.5vw !important
+    }
+
+    .text_block *:not(h2) {
+        font-size: 1.3vw !important
+    }
+
+    /*Анимированный блок картинка-текст*/
+
+    /*инстаграмм галерея*/
+    .eapps-instagram-feed-posts-grid-load-more {
+        height: auto !important;
+    }
+
+    .eapps-instagram-feed-posts-grid-load-more-text.eapps-instagram-feed-posts-grid-load-more-text-visible {
+        font-size: 1.6vw !important;
+        line-height: 1.6vw !important;
+    }
+
+    .eapps-instagram-feed-posts-item-template-tile .eapps-instagram-feed-posts-item-comments-count-label,
+    .eapps-instagram-feed-posts-item-template-tile .eapps-instagram-feed-posts-item-likes-count-label {
+        font-size: 1.4vw !important
+    }
+
+    .eapps-instagram-feed-posts-item-template-tile .eapps-instagram-feed-posts-item-comments-count-icon,
+    .eapps-instagram-feed-posts-item-template-tile .eapps-instagram-feed-posts-item-likes-count-icon {
+        width: 50px !important;
+        height: 50px !important
+    }
+
+    .instagram_img.error {
+        font-size: 1.6vw !important
+    }
+
+    /*инстаграмм галерея*/
+
+    /*блок текст лозунга и города*/
+    .text_top_glavnaya *:not(h2) {
+        font-size: 2vw !important
+    }
+
+    .gradient_text_gorod {
+        font-size: 6vw !important
+    }
+
+    /*блок текст лозунга и города*/
+
+    /*блок svg иконок с текстом*/
+    .icon_zagolovok {
+        font-size: 1.4vw !important
+    }
+
+    .icon_text *:not(h2) {
+        font-size: 1vw !important
+    }
+
+    /*блок svg иконок с текстом*/
+
+    /*блок жёлтых ссылок*/
+    .ssilka_yellow {
+        font-size: 1.2vw !important
+    }
+
+    /*блок жёлтых ссылок*/
+
+    /*Стили унифицированного блока 1 */
+    .zagolovok_uslugi h1 {
+        font-size: 2vw !important
+    }
+
+    .blok_wraper_text *:not(h2) {
+        font-size: 1.2vw !important
+    }
+
+    /*Стили унифицированного блока 1 */
+
+    /*footer сайта*/
+    .foot_wrap *:not(h2) {
+        font-size: 1.2vw !important
+    }
+
+    .footer_zagolovok *:not(h2) {
+        font-size: 1.4vw !important
+    }
+
+    .adres_footer .img_addres {
+        width: 6%;
+    }
+
+    /*footer сайта*/
+
+    /*всплывающие окно*/
+    .modal_close {
+        height: 3% !important;
+        width: 3% !important
+    }
+
+    .modal_form .modal_close {
+        width: 5%;
+        height: 10%;
+        -webkit-transform: translate(50%, -100%);
+        -ms-transform: translate(50%, -100%);
+        transform: translate(50%, -100%)
+    }
+
+    /*всплывающие окно*/
+
+    /*header сайта*/
+    ul#primary_menu li>a {
+        font-size: 1vw !important;
+    }
+
+    div.op_cl .wrap_lb {
+        width: 1.3vw;
+        height: 1.3vw;
+    }
+
+    /*header сайта*/
+
+    /*таблицы*/
+    h2.h2_zag_cen a {
+        font-size: 1.2vw !important;
+    }
+
+    table.adaptiv_tabls *:not(h2) {
+        font-size: 1.2vw !important;
+    }
+
+    /*таблицы*/
+
+    /*контакты картинка - карта*/
+    .adres_block {
+        font-size: 1.4vw !important;
+    }
+
+    /*контакты картинка - карта*/
+}

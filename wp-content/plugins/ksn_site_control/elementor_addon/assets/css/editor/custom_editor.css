@@ -1,0 +1,7 @@
+.vazho_red{
+	color: #d77575;
+	font-weight: 900;
+}
+.elementor-control-default_active.elementor-control-type-switcher .elementor-switch-input:checked~.elementor-switch-label{
+	background-color: #ff3131;
+}

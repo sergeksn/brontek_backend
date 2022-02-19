@@ -1,0 +1,28 @@
+.custom_popover label.castom_label {
+    margin-right: 0;
+    font-size: 18px;
+}
+
+.custom_popover input {
+    display: none;
+}
+
+label.castom_label {
+    text-align: center;
+    border: 2px solid #6d7882;
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    font-weight: 600;
+    transition: all 0.5s linear;
+}
+
+label.castom_label:hover {
+    background-color: rgba(109, 120, 130, 0.2);
+    box-shadow: rgba(109, 120, 130, 0.2) 5px 5px 5px;
+}
+
+label.castom_label:active {
+    background-color: rgba(109, 120, 130, 0.2);
+    box-shadow: rgba(109, 120, 130, 0.2) 5px 5px 5px;
+}

@@ -1,0 +1,280 @@
+@media(min-width:2500px) {
+
+    /*настройки шаблона сайта*/
+    a:hover {
+        text-shadow: 0 0 0.7vw #fff;
+    }
+
+    a:focus {
+        text-shadow: 0 0 0.7vw #fff;
+    }
+
+    .loader {
+        border-width: 0.5vw;
+    }
+
+    .block_type_mutation {
+        padding: 1.4vw;
+    }
+
+    @-webkit-keyframes pulse {
+        0% {
+            box-shadow: 0 0 0 0 rgba(255, 255, 255, .4), 0 0 0 0 rgba(255, 255, 255, .4)
+        }
+
+        70% {
+            box-shadow: 0 0 0 1vw rgba(255, 255, 255, 0), 0 0 0 2vw rgba(255, 255, 255, 0)
+        }
+
+        100% {
+            box-shadow: 0 0 0 0 rgba(255, 255, 255, 0), 0 0 0 0 rgba(255, 255, 255, 0)
+        }
+    }
+
+    @keyframes pulse {
+        0% {
+            box-shadow: 0 0 0 0 rgba(255, 255, 255, .4), 0 0 0 0 rgba(255, 255, 255, .4)
+        }
+
+        70% {
+            box-shadow: 0 0 0 1vw rgba(255, 255, 255, 0), 0 0 0 2vw rgba(255, 255, 255, 0)
+        }
+
+        100% {
+            box-shadow: 0 0 0 0 rgba(255, 255, 255, 0), 0 0 0 0 rgba(255, 255, 255, 0)
+        }
+    }
+
+    /*настройки шаблона сайта*/
+
+    /*header сайта*/
+    ul#primary_menu li>a {
+        font-size: 1vw !important;
+    }
+
+    div.op_cl .lb_1,
+    div.op_cl .lb_2 {
+        border-bottom: 0.25vw solid #fff;
+    }
+
+    div.op_cl .lb_center {
+        border-bottom: 0.25vw solid #fff;
+        border-right: 0.25vw solid #fff;
+    }
+
+    ul#primary_menu>li>a {
+        padding: 1vw;
+    }
+
+    #logo_wrap img {
+        padding: 0.3vw 0;
+    }
+
+    ul.sub-menu>li.menu-item-has-children>a {
+        padding: 0.5vw;
+        padding-right: 0.25vw;
+    }
+
+    li.menu-item-has-children>div.op_cl {
+        padding-right: 0.25vw;
+    }
+
+    ul.sub-menu>li:not(.menu-item-has-children)>a {
+        padding: 0.5vw;
+    }
+
+    /*header сайта*/
+
+    /*footer сайта*/
+    .footer_zagolovok {
+        padding-bottom: 0.3vw;
+    }
+
+    .footer_line_yllow {
+        border-top: 0.2vw solid #ff0;
+        padding-bottom: 0.6vw;
+    }
+
+    #menu_footer li.menu-item {
+        padding: 0.2vw 0;
+    }
+
+    .adres_footer .img_addres {
+        padding-left: 0.3vw;
+    }
+
+    .phon_footer {
+        padding-top: 0.35vw;
+        padding-bottom: 1vw;
+    }
+
+    .item_soc span.set_name {
+        padding-left: 0.7vw;
+    }
+
+    .item_soc {
+        padding: 0.2vw 0;
+    }
+
+    .modal_form {
+        padding: 0.7vw;
+    }
+
+    /*footer сайта*/
+
+    /*инстаграмм галерея*/
+    .eapps-instagram-feed-posts-item {
+        padding: 0.5vw;
+        background: none !important;
+    }
+
+    /*инстаграмм галерея*/
+
+    /*блок жёлтых ссылок*/
+    .yellow_ssilki_block {
+        padding-top: 0.7vw;
+    }
+
+    .yellow_obolochka {
+        padding: 0.3vw;
+    }
+
+    .ssilka_yellow {
+        padding: 0.2vw;
+    }
+
+    /*блок жёлтых ссылок*/
+
+    /*блок svg иконок с текстом*/
+    .icon_block {
+        padding-bottom: 1.5vw;
+        padding-left: 1.5vw;
+        padding-right: 1.5vw;
+    }
+
+    .icon_zagolovok {
+        padding: 0.8vw 0;
+    }
+
+    /*блок svg иконок с текстом*/
+
+    /*Стили унифицированного блока 1 */
+    .blok_wraper_img.float_left {
+        margin-right: 1vw;
+        margin-bottom: 0.7vw;
+    }
+
+    .zagolovok_uslugi {
+        padding-bottom: 1.3vw;
+    }
+
+    .blok_wraper_img .blok_img {
+        padding: 0 0.5vw 1vw 0.5vw;
+    }
+
+    .blok_wraper_img.float_right {
+        margin-left: 1vw;
+        margin-bottom: 0.7vw;
+    }
+
+    .blok_wraper_img.img_typ_2 .blok_img {
+        padding-bottom: 1vw;
+    }
+
+    .blok_wraper_img {
+        padding-right: 0.7vw;
+    }
+
+    .blok_wraper_img.img_typ_3 .blok_img {
+        padding: 0 1vw 1vw 0;
+    }
+
+    /*Стили унифицированного блока 1 */
+
+    /*Анимированный блок картинка-текст*/
+    .vsplivaushiy_text p {
+        margin: 0.3vw 0;
+    }
+
+    .effect_milo .vsplivaushiy_text {
+        padding: 0 0.5vw 0 0;
+        border-right: 0.25vw solid #fff;
+    }
+
+    /*Анимированный блок картинка-текст*/
+
+    /*контакты картинка - карта*/
+    .contakt_line_wrapper {
+        padding: 0 0 2.5vw 0;
+    }
+
+    .contakt_line {
+        border-bottom: 0.2vw solid #ffe40d;
+    }
+
+    .contakt_img_wrap {
+        padding-right: 1.3vw;
+    }
+
+    .adres_block {
+        padding-bottom: 0.7vw;
+    }
+
+    .contakt_img_wrap.order_1 {
+        padding-left: 1.3vw;
+    }
+
+    /*контакты картинка - карта*/
+
+    /*разворачивающийся блок с текстом*/
+    .wrap_razvorot_text {
+        padding-left: 1vw;
+    }
+
+    .img_razvorot_block {
+        padding-right: 1vw;
+    }
+
+    .open_close {
+        padding-top: 1vw;
+    }
+
+    .razvorot_block.order_1 .img_razvorot_block {
+        padding-left: 1vw;
+    }
+
+    .razvorot_block.order_1 .wrap_razvorot_text {
+        padding-right: 1vw;
+    }
+
+    /*разворачивающийся блок с текстом*/
+
+    /*таблицы*/
+    .table_discont tr td {
+        border-bottom: 0.2vw solid #fff;
+        padding: 0.7vw 0 0.7vw 0.7vw;
+    }
+
+    .table_discont {
+        margin: 1.5vw 0;
+    }
+
+    h2.h2_zag_cen {
+        padding-bottom: 0.5vw;
+        border-bottom: 0.2vw dashed #fc0;
+    }
+
+    .adaptiv_tabls {
+        padding-bottom: 2vw;
+    }
+
+    .img_tabl_ceny {
+        padding: 0.7vw 0.7vw 0.35vw 0.7vw;
+    }
+
+    td.td_img {
+        padding: 0.25vw;
+    }
+
+    /*таблицы*/
+}

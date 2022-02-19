@@ -1,0 +1,1 @@
+[URL] http://shop.loc/ => Файл успешно кеширован в папку D:/OpenServer/domains/shop.loc/wp-content/cache/ksn_cache/shop.loc 

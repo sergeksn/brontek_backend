@@ -1,0 +1,46 @@
+#wrap_gotovie_bloki {
+    width: 95%;
+    text-align: center;
+}
+
+#wrap_gotovie_bloki .gotovie_bloki {
+    border: 2px solid #6d7882;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: all 0.5s linear;
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+    display: block;
+}
+
+#wrap_gotovie_bloki .gotovie_bloki:only-child {
+    margin-bottom: 0;
+}
+
+#wrap_gotovie_bloki .gotovie_bloki:last-child {
+    margin-bottom: 0;
+}
+
+#wrap_gotovie_bloki .gotovie_bloki:hover {
+    background-color: rgba(109, 120, 130, 0.2);
+    box-shadow: rgb(109 120 130 / 20%) 5px 5px 5px;
+}
+
+#wrap_gotovie_bloki .gotovie_bloki.vibran {
+    border: 3px solid #3dec04;
+    -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+            transform: scale(1.1);
+}
+
+.gotovie_bloki_title {
+    font-size: 15px;
+    width: 95%;
+    text-align: center;
+}
+
+#sbrosit {
+    color: #63ff59;
+}

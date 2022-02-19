@@ -1,0 +1,130 @@
+.conteiner_upload_media_fill {
+    margin-top: 10px;
+}
+
+.upload_media_fill {
+    display: flex;
+    width: 100%;
+    padding-top: 50%;
+    position: relative;
+    border: 1px solid #64666a;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.upload_image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #34383c;
+    transition: 0.5s all linear;
+}
+
+.upload_image.media_type_svg {
+    background-image: linear-gradient(45deg, #34383c 25%, transparent 0, transparent 75%, #34383c 0, #34383c), linear-gradient(45deg, #34383c 25%, transparent 0, transparent 75%, #34383c 0, #34383c);
+    background-size: 12px 12px;
+    background-position: 0 0, 6px 6px;
+    background-color: #64666a;
+}
+
+.upload_image.est_media .add_circle {
+    display: none;
+    opacity: 0;
+    transition: 0s opacity linear;
+}
+
+.upload_image:hover {
+    background-color: #484a4d;
+}
+
+.img_prewiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+}
+
+.upload_image.media_type_image .img_prewiv img {
+    height: auto!important;
+}
+
+.img_prewiv img {
+    width: 100%;
+    height: 100%!important;
+    z-index: 5;
+}
+
+.upload_image.est_media:hover .remove_image {
+    opacity: 1;
+}
+
+.upload_image.est_media .remove_image {
+    display: flex;
+}
+
+.remove_image {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 20px;
+    height: 20px;
+    font-size: 11px;
+    box-shadow: 0 0 7px 0 rgb(0 0 0 / 10%);
+    border-radius: 3px;
+    background-color: #64666a;
+    color: #b4b5b7;
+    display: none;
+    transition: 0.2s opacity linear;
+    opacity: 0;
+    z-index: 4;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s linear;
+}
+
+.remove_image:hover {
+    background-color: #fff;
+    box-shadow: 0 0 5px 0 rgb(0 0 0 / 40%);
+}
+
+.add_circle {
+    z-index: 4;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: flex;
+    opacity: 1;
+    transition: 0.5s opacity linear;
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+}
+
+.add_circle i.eicon-plus-circle {
+    font-size: 23px;
+}
+
+.wrap_text_vibor {
+    display: flex;
+    position: absolute;
+    bottom: -30px;
+    left: 0;
+    height: 30px;
+    width: 100%;
+    background-color: #7d7e82;
+    align-items: center;
+    justify-content: center;
+    transition: 0.2s all linear;
+    z-index: 5;
+}
+
+.upload_media_fill:hover .wrap_text_vibor {
+    bottom: 0;
+}

@@ -1,0 +1,37 @@
+.img_select_block_type {
+    width: 100%;
+    display: inline-flex;
+    padding: 7px;
+    transition: -webkit-transform 0.5s linear;
+    transition: transform 0.5s linear;
+    transition: transform 0.5s linear, -webkit-transform 0.5s linear;
+}
+
+.img_select_block_type:hover {
+    padding: 0;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    border: 3px solid #6d7882;
+}
+
+#wrap_blok_tip {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#wrap_blok_tip label {
+    width: 50%;
+}
+
+#wrap_blok_tip input {
+    display: none;
+}
+
+#wrap_blok_tip input:checked+label>div.img_select_block_type {
+    border: 3px solid #3dec04;
+    padding: 0;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}

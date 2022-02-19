@@ -1,0 +1,35 @@
+[02-Nov-2021 14:55:35 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 175
+[02-Nov-2021 14:55:35 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 413
+[02-Nov-2021 14:55:41 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 693
+[02-Nov-2021 14:55:55 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 413
+[02-Nov-2021 14:56:15 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 693
+[02-Nov-2021 14:56:25 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in D:\OpenServer\domains\shop.loc\wp-includes\Requests\Transport\cURL.php on line 165
+[02-Nov-2021 14:56:50 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 413
+[02-Nov-2021 14:57:37 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 693
+[02-Nov-2021 14:57:56 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 693
+[02-Nov-2021 14:58:04 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 693
+[02-Nov-2021 14:59:21 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.wordpress.org/support/forums/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in D:\OpenServer\domains\shop.loc\wp-includes\update.php on line 693
+[02-Nov-2021 15:06:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function elementor_theme_do_location() in D:\OpenServer\domains\shop.loc\wp-content\themes\serge_produkt\header.php:97
+Stack trace:
+#0 D:\OpenServer\domains\shop.loc\wp-includes\template.php(770): require_once()
+#1 D:\OpenServer\domains\shop.loc\wp-includes\template.php(716): load_template()
+#2 D:\OpenServer\domains\shop.loc\wp-includes\general-template.php(48): locate_template()
+#3 D:\OpenServer\domains\shop.loc\wp-content\themes\serge_produkt\index.php(2): get_header()
+#4 D:\OpenServer\domains\shop.loc\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#5 D:\OpenServer\domains\shop.loc\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#6 D:\OpenServer\domains\shop.loc\index.php(17): require('D:\\OpenServer\\d...')
+#7 {main}
+  thrown in D:\OpenServer\domains\shop.loc\wp-content\themes\serge_produkt\header.php on line 97
+[02-Nov-2021 15:06:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function elementor_theme_do_location() in D:\OpenServer\domains\shop.loc\wp-content\themes\serge_produkt\header.php:97
+Stack trace:
+#0 D:\OpenServer\domains\shop.loc\wp-includes\template.php(770): require_once()
+#1 D:\OpenServer\domains\shop.loc\wp-includes\template.php(716): load_template()
+#2 D:\OpenServer\domains\shop.loc\wp-includes\general-template.php(48): locate_template()
+#3 D:\OpenServer\domains\shop.loc\wp-content\themes\serge_produkt\index.php(2): get_header()
+#4 D:\OpenServer\domains\shop.loc\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#5 D:\OpenServer\domains\shop.loc\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#6 D:\OpenServer\domains\shop.loc\index.php(17): require('D:\\OpenServer\\d...')
+#7 {main}
+  thrown in D:\OpenServer\domains\shop.loc\wp-content\themes\serge_produkt\header.php on line 97
+[02-Nov-2021 15:08:05 UTC] PHP Warning:  Undefined array key "requires" in D:\OpenServer\domains\shop.loc\wp-content\plugins\elementor-pro\license\updater.php on line 73
+[02-Nov-2021 15:08:05 UTC] PHP Warning:  Undefined array key "new_version" in D:\OpenServer\domains\shop.loc\wp-content\plugins\elementor-pro\license\updater.php on line 83
